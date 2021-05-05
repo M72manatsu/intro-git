@@ -1,0 +1,37 @@
+[2021-05-05 12:40:23.018] [exthost] [info] extension host started
+[2021-05-05 12:40:23.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-05 12:40:23.079] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/debug-auto-launch/dist/extension
+[2021-05-05 12:40:23.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-05 12:40:23.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/git/dist/main
+[2021-05-05 12:40:23.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-05 12:40:23.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/github/dist/extension.js
+[2021-05-05 12:40:24.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-05 12:40:24.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-05 12:40:24.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-05 12:40:24.493] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-05 12:40:24.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-05 12:40:24.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-05 12:40:24.543] [exthost] [info] eager extensions activated
+[2021-05-05 12:40:24.617] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-05 12:40:24.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-05 12:40:25.292] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:40:27.294] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:40:49.066] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:40:54.435] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:40:59.814] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:05.201] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:10.552] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:19.123] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:30.733] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:31.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-05-05 12:41:31.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-05-05 12:41:36.137] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:41.541] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:41:50.224] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:42:19.066] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:42:31.888] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:42:33.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-05-05 12:42:33.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/boctok11/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-05-05 12:42:37.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:42:43.183] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1280
+[2021-05-05 12:42:48.591] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1281
